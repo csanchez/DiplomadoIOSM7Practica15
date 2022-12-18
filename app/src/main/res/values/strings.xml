@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Acelerometro</string>
+    <string name="gravedad">gravedad</string>
+    <string name="acelareci_n_x">acelareci_n_x</string>
+    <string name="a_x">a_x</string>
+    <string name="a_y">a_y</string>
+    <string name="acelareci_n_y">acelareci_n_y</string>
+    <string name="aceleracion">aceleracion</string>
+
+
+    <string name="a_z">a_z</string>
+    <string name="aceleraci_n_z">aceleraci_n_z</string>
+    <string name="a_m_dulo">a_m_dulo</string>
+    <string name="a_m_xima">a_m_xima</string>
+</resources>
